@@ -2,6 +2,7 @@
 # Create two files in the same folder and name them "ids" and "working ids" (You can change their names by editing line 7 and 8)
 # Deprecated until further notice
 # Have fun finding your most requested ids
+# Outdated
 
 import requests
 
